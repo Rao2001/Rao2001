@@ -29,10 +29,6 @@
 </a>
 <a href="https://twitter.com">
 <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="https://github.com/Rao2001">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
 <a href="mailto:yourmail@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
