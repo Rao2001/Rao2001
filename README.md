@@ -45,13 +45,13 @@
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" />
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
